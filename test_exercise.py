@@ -21,3 +21,6 @@ def test_3_that_does(resource_a_setup):
 
 def test_4_that_does_not():
     print('\ntest_4_that_does_not()')
+
+def test_5_that_does_not():
+    print('\ntest_5_that_does_not()')
