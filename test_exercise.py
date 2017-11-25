@@ -24,3 +24,6 @@ def test_4_that_does_not():
 
 def test_5_that_does_not():
     print('\ntest_5_that_does_not()')
+
+def test_6_that_does_not():
+    print('\ntest_6_that_does_not()')
