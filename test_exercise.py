@@ -10,8 +10,8 @@ def resource_a_setup(request):
 
 
 
-def test_2_that_does_not():
-    print('\ntest_2_that_does_not()')
+def test_11_that_does_not():
+    print('\ntest_11_that_does_not()')
 
 def test_1_that_needs_resource_a(resource_a_setup):
     print('test_1_that_needs_resource_a()')
