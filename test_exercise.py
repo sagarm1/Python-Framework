@@ -5,7 +5,7 @@ import pytest
 def resource_a_setup(request):
     print('\nresources_a_setup()')
     def resource_a_teardown():
-        print('\nresources_a_teardown()')
+        print('\nresources_a_teardown()1')
     request.addfinalizer(resource_a_teardown)
 
 
